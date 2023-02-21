@@ -4,12 +4,39 @@
 
 ***
 
+### 02/21
+> #### Grammaire
+> - *语法渐进* 
+> 
+> COURS:
+>>   - p80, p82 La Forme Passive
+>>   - p154 l'Expression de la Condition et de l'Hypothèse
+>
+> EXCERCISE:
+>>   - p65 5
+>>   - p67 1
+>>   - p68 1
+>>   - p81 1,2
+>>   - p83 4
+>>   - p155 1,2
+> #### Compréhension orale
+> - *ABC_DELF_B2* p15 ACTIVITÉ 7
+> - *ABC_DELF_B2* p34 ACTIVITÉ 10
+> #### Compréhension écrite
+> - *ABC_DELF_B2* p62 ACTIVITÉ 5
+> - *ABC_DELF_B2* p103 ACTIVITÉ 6
+
+
+### 02/20
+> #### Culture et société
+> - *Univerdalism Républicain et Multiculturalism*
+
 
 ### 02/17
 > #### Mathématique
 > - *raisonnement mathématique* excercise 6 - 10
 > #### Conduite de projet
-> ???
+> -
 > #### Traduction FR -> CN
 > - *texte 4* (inachevé)
 
@@ -17,9 +44,9 @@
 
 ### 02/16
 > #### Méthodologie
-> ???
+> -
 > #### Connaissances de la France
-> ???
+> -
 
 
 ### 02/15
@@ -33,10 +60,9 @@
 
 ### 02/14
 > #### Grammaire
-> - *语法渐进* p62-p66 Le Conditionnel
+> - *语法渐进* p62-p65 Le Conditionnel
 > #### Compréhension orale
 > - *ABC_DELF_B2* p33 ACTIVITÉ 9
-> - *ABC_DELF_B2* p34 ACTIVITÉ 10
 > #### Compréhension écrite
 > - *ABC_DELF_B2* p60 ACTIVITÉ 4
 > - *ABC_DELF_B2* p62 ACTIVITÉ 5 (inachevé)
@@ -47,6 +73,7 @@
 
 ### 02/13
 > #### Culture et société
+> - *Culture Traditionnelle Française*
 
 
 
