@@ -20,6 +20,9 @@
 > - *ABC_DELF_B2* p172 ACTIVITÉ 22 (250 mots)
 >
 > - [*Les connecteurs linguistiques pour bien écrire et argumenter*](Compréhension_Orale_Ecrite/Les%20%20connecteurs%20%20linguistiques%20.pdf)
+>
+> #### S.CALLET写的一本书
+> - [*Répertoire des difficultés du français_Callet S.*](Production_Orale_Ecrite/Répertoire%20des%20difficultés%20du%20français_Callet%20S..pdf)
 
 
 
@@ -33,16 +36,16 @@
 >
 > EXCERCICES:
 >>   - p65 5
->>   - p67 1
->>   - p68 1
->>   - p81 1,2
->>   - p83 4
->>   - p155 1,2
+>>   p67 1
+>>   p68 1
+>>   p81 1,2
+>>   p83 4
+>>   p155 1,2
 >
 > - [*EN EFFET/AU FAIT/EN FAIT的区分*](Grammaire/21.2.docx)
 > #### Compréhension orale
-> - *ABC_DELF_B2* p15 ACTIVITÉ 7
-> - *ABC_DELF_B2* p34 ACTIVITÉ 10
+> - *ABC_DELF_B2* p15 [ACTIVITÉ 7](Compréhension_Orale_Ecrite/audio/DELFB2_CO_P07_activite07_Bonnotte_Noirmoutier.MP3) 
+> - *ABC_DELF_B2* p34 [ACTIVITÉ 10](Compréhension_Orale_Ecrite/audio/DELFB2_CO_P32_activite10_sexe%20desenfants.MP3)
 > #### Compréhension écrite
 > - *ABC_DELF_B2* p62 ACTIVITÉ 5
 > - *ABC_DELF_B2* p103 ACTIVITÉ 6
@@ -83,7 +86,8 @@
 > #### Grammaire
 > - *语法渐进* p62-p65 Le Conditionnel
 > #### Compréhension orale
-> - *ABC_DELF_B2* p33 ACTIVITÉ 9
+> - *ABC_DELF_B2* p14 [ACTIVITÉ 6](Compréhension_Orale_Ecrite/audio/DELFB2_CO_P06_activite06_medicaments.MP3)
+> - *ABC_DELF_B2* p33 [ACTIVITÉ 9](Compréhension_Orale_Ecrite/audio/DELFB2_CO_P31_activite09_Reseausemences%20nat.MP3)
 > #### Compréhension écrite
 > - *ABC_DELF_B2* p60 ACTIVITÉ 4
 > - *ABC_DELF_B2* p62 ACTIVITÉ 5 (inachevé)
