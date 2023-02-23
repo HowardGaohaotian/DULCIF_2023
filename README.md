@@ -3,6 +3,19 @@
 ![image](schedule.jpg)
 
 ***
+### 02/23 JE
+> #### Méthodologie
+>  - [Que faites-vous ?](Méthodologie/situations%20.pdf)
+>  - [corriger les e-mails](Méthodologie/Corriger%20les%20e-mails%20.pdf)
+>
+> #### Connaissance de la France
+>  - [TD4](Connaissance_de_la_France/TD4.pdf)
+>  - [CM5](Connaissance_de_la_France/DULCIF%20module%203%20CM5%20la%20ReÌforme%20protestante%20et%20les%20guerres%20de%20religion.pdf)
+>
+
+
+
+
 
 ### 02/22 ME
 > #### Lexique
@@ -42,6 +55,8 @@
 >>   p83 4
 >>   p155 1,2
 >
+> - [*PRÉFIXES ET SUFFIXES*](Grammaire/PRINCIPAUX%20PREFIXES%20ETSUFFIXES.docx)
+> - [*Excercices de Préfixes+Suffixes*](Grammaire/Préfixes_Suffixes_Radicaux_exercices.docx)
 > - [*EN EFFET/AU FAIT/EN FAIT的区分*](Grammaire/21.2.docx)
 > #### Compréhension orale
 > - *ABC_DELF_B2* p15 [ACTIVITÉ 7](Compréhension_Orale_Ecrite/audio/DELFB2_CO_P07_activite07_Bonnotte_Noirmoutier.MP3) 
@@ -70,7 +85,8 @@
 > #### Méthodologie
 > -
 > #### Connaissances de la France
-> -
+> - [TD3.5](Connaissance_de_la_France/TD3.5.pdf)
+> - [CM4](Connaissance_de_la_France/DULCIF%20module%203%20CM4%20la%20renaissance%20europeÌenne.pdf)
 
 
 ### 02/15 ME
@@ -120,8 +136,8 @@
 > #### Méthodologie
 > - 
 > #### Connaissances de la France
-> - 
-
+> - [TD3](Connaissance_de_la_France/TD3.pdf)
+> - [CM3](Connaissance_de_la_France/DULCIF%20module%203%20CM3%20Une%20Europe%20judeo%20-chrétienne%20_%20.pdf)
 
 
 
