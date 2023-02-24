@@ -10,7 +10,7 @@
 > - [Raisonnement analyse et récurrence](Mathématique/C1_Logique%20et%20raisonnement.pdf) excercices 11-13
 >
 > #### Conduite de project
-> - [Étude du texte argumentatif en faisant une fiche de lecture ou résumé](www.espacefrancais.com/analyser-un-texte-argumentatif/#a3)
+> - [Étude du texte argumentatif en faisant une fiche de lecture ou résumé](https://www.espacefrancais.com/analyser-un-texte-argumentatif)
 >
 > #### Traduction FR -> CN
 > - [*text 4*](TraductionFR_CHINOIS/texte%204.pdf)
