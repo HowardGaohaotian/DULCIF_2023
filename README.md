@@ -3,6 +3,19 @@
 ![image](schedule.jpg)
 
 ***
+### VACANCES 02/25-03/05
+***
+### 02/24 VE
+> #### Mathématique
+> - [Raisonnement analyse et récurrence](Mathématique/C1_Logique%20et%20raisonnement.pdf) excercices 11-13
+>
+> #### Conduite de project
+> - [Étude du texte argumentatif en faisant une fiche de lecture ou résumé](www.espacefrancais.com/analyser-un-texte-argumentatif/#a3)
+>
+> #### Traduction FR -> CN
+> - [*text 4*](TraductionFR_CHINOIS/texte%204.pdf)
+> - [*小改错练习*](TraductionFR_CHINOIS/2.24翻译.pdf)
+
 ### 02/23 JE
 > #### Méthodologie
 >  - [Que faites-vous ?](Méthodologie/situations%20.pdf)
@@ -70,7 +83,8 @@
 > #### Culture et société
 > - *Universalism Républicain et Multiculturalism*
 
-
+---
+###### 2/17 及以前的进度记不清了QwQ 仅参考
 ### 02/17 VE
 > #### Mathématique
 > - *raisonnement mathématique* excercise 6 - 10
