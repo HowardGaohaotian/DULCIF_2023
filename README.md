@@ -1,10 +1,13 @@
 # DULCIF_2023
 ### Module3 et 4
 ![image](schedule.jpg)
+***
 
-***
+### 03/06 LU
+> 老师有事，周四或周五补课QwQ
+
 ### VACANCES 02/25-03/05
-***
+
 ### 02/24 VE
 > #### Mathématique
 > - [Raisonnement analyse et récurrence](Mathématique/C1_Logique%20et%20raisonnement.pdf) excercices 11-13
