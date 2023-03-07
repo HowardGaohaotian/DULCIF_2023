@@ -3,6 +3,26 @@
 ![image](schedule.jpg)
 ***
 
+### 03/07 MA
+> #### Grammaire
+> - *语法渐进*
+>
+>  COURS:
+>> - p122,p124 Les Pronoms Personnels Compléments
+>
+> EXCERCICES:
+>> - p50-p51 BILAN
+>> - p123 2
+>
+> #### Compréhension écrite
+> - *ABC_DELF_B2* ACTIVITÉ p103 6,7
+> 
+> #### Compréhension orale
+> - *看视频完成问卷*
+>> - [*问卷*](Compréhension_Orale_Ecrite/Vidéo%20KARAMBOLAGE_Paris%20de%20Haussmann_Questions%20et%20corr.docx)
+>> - [*视频*](https://www.bilibili.com/video/BV1DB4y1m7jy/?spm_id_from=333.337.search-card.all.click&vd_source=9d7ac860f2718d439b787a2902a0c873)
+>
+
 ### 03/06 LU
 > 老师有事，周四或周五补课QwQ
 
@@ -65,11 +85,11 @@
 >
 > EXCERCICES:
 >>   - p65 5
->>   p67 1
->>   p68 1
->>   p81 1,2
->>   p83 4
->>   p155 1,2
+>>   - p67 1
+>>   - p68 1
+>>   - p81 1,2
+>>   - p83 4
+>>   - p155 1,2
 >
 > - [*PRÉFIXES ET SUFFIXES*](Grammaire/PRINCIPAUX%20PREFIXES%20ETSUFFIXES.docx)
 > - [*Excercices de Préfixes+Suffixes*](Grammaire/Préfixes_Suffixes_Radicaux_exercices.docx)
@@ -79,7 +99,7 @@
 > - *ABC_DELF_B2* p34 [ACTIVITÉ 10](Compréhension_Orale_Ecrite/audio/DELFB2_CO_P32_activite10_sexe%20desenfants.MP3)
 > #### Compréhension écrite
 > - *ABC_DELF_B2* p62 ACTIVITÉ 5
-> - *ABC_DELF_B2* p103 ACTIVITÉ 6
+> - *ABC_DELF_B2* p103 ACTIVITÉ 6(部分)
 
 
 ### 02/20 LU
