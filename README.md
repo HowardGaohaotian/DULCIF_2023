@@ -2,6 +2,19 @@
 ### Module3 et 4
 ![image](schedule.jpg)
 ***
+### 03/8 ME
+> #### Lexique
+> - *词汇渐进*  p142 La Politique et la société
+> 
+> EXCERCICES:
+>> p143 1,2,3,4
+>> p145 2
+>  
+> #### Production Orale
+> - [*讨论一篇文章*](Production_Orale_Ecrite/3.8.pdf)
+> #### Production écrite
+> - *ABC_DELF_B2* p177 ACTIVITÉ 47 (250 mots)
+>
 
 ### 03/07 MA
 > #### Grammaire
