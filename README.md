@@ -2,6 +2,23 @@
 ### Module3 et 4
 ![image](schedule.jpg)
 ***
+### 03/09 JE
+> #### Méthodologie
+>> *"- Lire [la méthode de la prise de notes](Méthodologie/Prendre%20des%20notes.doc) et compléter les abréviations et les symboles
+\
+\- Préparer [l'exercice de prononciation de "plus"](Méthodologie/Pho%20plus.pdf)
+\
+\- Réviser la prononciation des nombres
+\
+\- Choisir un petit texte sur une application (dans le document ["comment tenir ses nouvelles bonnes résolutions"](Méthodologie/Comment%20tenir%20ses%20nouvelles%20bonnes%20résolutions.docx)) et écrire les informations principales sous forme télégraphique pour présenter une diapositive sous power point.*
+> ##### ------详见[传送门(MOODLE)4. Prendre en notes l'essentiel](Méthodologie/传送门.txt)
+>
+> #### Connaissance de la France
+> - 模块考试
+> #### Culture et société
+> - *言论自由，地狱笑话，黑色幽默和取消文化*
+
+
 ### 03/8 ME
 > #### Lexique
 > - *词汇渐进*  p142 La Politique et la société
@@ -13,7 +30,7 @@
 > #### Production Orale
 > - [*讨论一篇文章*](Production_Orale_Ecrite/3.8.pdf)
 > #### Production écrite
-> - *ABC_DELF_B2* p177 ACTIVITÉ 47 (250 mots)
+>> - *ABC_DELF_B2* p177 ACTIVITÉ 47 (250 mots)
 >
 
 ### 03/07 MA
