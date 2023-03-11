@@ -3,6 +3,17 @@
 ![image](schedule.jpg)
 ![image](calendrier.jpg)
 ***
+### 03/10 VE
+> #### Mathématique
+> - [Cours_Ensemble et application](Mathématique/Cours_Ensemble%20et%20application.pdf)
+> - [C2_Ensemble et application](Mathématique/C2_Ensemble%20et%20application.pdf) excercise 1.1 et 1.2
+>
+> #### Conduite de project
+> - [Module_3项目...](Conduite_de_projet/0310.jpg)
+>
+> #### Traduction FR -> CN
+> - [*text 6*](TraductionFR_CHINOIS/texte%206.pdf)
+> 
 ### 03/09 JE
 > #### Méthodologie
 >> *"- Lire [la méthode de la prise de notes](Méthodologie/Prendre%20des%20notes.doc) et compléter les abréviations et les symboles
@@ -20,7 +31,7 @@
 > - *言论自由，地狱笑话，黑色幽默和取消文化*
 
 
-### 03/8 ME
+### 03/08 ME
 > #### Lexique
 > - *词汇渐进*  p142 La Politique et la société
 > 
