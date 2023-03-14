@@ -3,9 +3,24 @@
 ![image](schedule.jpg)
 ![image](calendrier.jpg)
 ***
+### 03/14 MA
+> #### Grammaire
+> - *语法渐进*
+> EXCERCICES:
+>> - p123 1,4
+>> - p125 1,2,3
+>> - [*Grammaire_Imparfait_et_P.C.*](Grammaire/_DST%20No.1_Grammaire%20Temps%20B2_pc_impft_accord%20participe%20passé.docx)
+>
+> #### Compréhension écrite
+> - [*阅读一篇*](Compréhension_Orale_Ecrite/La%20voiture%20-%20du%20culte%20au%20simple%20objet_txt%20et%20questions_activités%20de%20préparation.docx)
+> 
+> #### Compréhension orale
+> - *无*
+
 ### 03/13 LU
 > #### Culture et société
 > - **Allégorie** *---la liberté guidant le peuple*
+> 
 
 ### 03/10 VE
 > #### Mathématique
