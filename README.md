@@ -3,7 +3,7 @@
 ![image](schedule.jpg)
 ![image](calendrier.jpg)
 ***
-### 03/14 LU
+### 03/13 LU
 > #### Culture et société
 > - **Allégorie** *---la liberté guidant le peuple*
 
